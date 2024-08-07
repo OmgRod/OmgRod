@@ -10,4 +10,4 @@ Hi! I'm OmgRod! I'm a hobbyist game, app, and web developer! Here are some facts
 
 Thank you taking your time to read this, even if some people would consider it stalking!
 
-- OmgRod
+\- OmgRod
