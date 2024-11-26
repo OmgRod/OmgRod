@@ -6,3 +6,5 @@ I am a hobbyist developer who makes
 - Programs
 - Websites
 - and other stuff...
+
+![OmgRod's GitHub stats](https://github-readme-stats.vercel.app/api?username=omgrod&show_icons=true&theme=radical)
